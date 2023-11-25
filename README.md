@@ -3,7 +3,7 @@
 
 ## Category
 ### Parameter optimization 	
-1. **Memory-Based Model Editing at Scale.** (ACL 2023) <br />
+1. **KGA: A General Machine Unlearning Framework Based on Knowledge Gap Alignment.** (ACL 2023) <br />
  Lingzhi Wang, Tong Chen, Wei Yuan, Xingshan Zeng, Kam-Fai Wong, and Hongzhi Yin.
  [[paper](https://arxiv.org/abs/2305.06535)] [[code](https://github.com/Lingzhi-WANG/KGAUnlearn)]
 
